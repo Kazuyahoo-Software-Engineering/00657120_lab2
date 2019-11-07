@@ -25,7 +25,8 @@ script:
 
 deploy:
   provider: heroku
-  api_key: 3ab9ced3-7da4-48ff-ba9e-421370ae428b
+  api_key:
+    secure: $HEROKU_API_KEY
   app: lab444444444
   on:
     repo: kazuyahooo/00657120_lab2
