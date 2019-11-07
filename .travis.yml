@@ -25,9 +25,8 @@ script:
 
 deploy:
   provider: heroku
-  api_key:
-    secure: $HEROKU_API_KEY
-  app: test-my-travisci-project
+  api_key:3ab9ced3-7da4-48ff-ba9e-421370ae428b
+  app: lab444444444
   on:
     repo: kazuyahoooo/00657120_lab2
     
