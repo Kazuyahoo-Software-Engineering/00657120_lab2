@@ -28,5 +28,5 @@ deploy:
   api_key: 3ab9ced3-7da4-48ff-ba9e-421370ae428b
   app: lab444444444
   on:
-    repo: kazuyahoooo/00657120_lab2
+    repo: kazuyahooo/00657120_lab2
     
