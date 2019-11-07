@@ -10,4 +10,4 @@ def times(a, b):
 def divided(a, b):
     if b != 0:
         return a / b
-    return 無限RRRR
+    return "無限RRRR"
