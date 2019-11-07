@@ -1,5 +1,5 @@
 import unittest
-import Calculator as calculator
+import cal as calculator
 class TestCalculator(unittest.TestCase):
     def test_int_add(self):
         self.assertEqual(calculator.add(9, 3), 12)
